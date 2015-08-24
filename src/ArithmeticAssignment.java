@@ -1,20 +1,7 @@
 /**
- * @(#)ArithmeticAssignment.java
- *
- * ArithmeticAssignment application
- *
- * @author 
- * @version 1.00 2015/8/24
+ * Author: Brandon B.
+ * Date: 8-24-15
  */
- 
-public class ArithmeticAssignment {
-    
-    public static void main(String[] args) {
-    	
-    	// TODO, add your application code
-    	System.out.println("Hello World!");
-    }
-}
 
 class Tester {
 	public static void main(String[] args) {
